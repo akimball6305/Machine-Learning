@@ -6,7 +6,9 @@ venv\Scripts\activate
 Use Hueristics to self control and test
 continuous is float and Discrete is ints
 
- 
+
+new name for training
+ mlagents-learn --run-id=Test13
  
  
  
